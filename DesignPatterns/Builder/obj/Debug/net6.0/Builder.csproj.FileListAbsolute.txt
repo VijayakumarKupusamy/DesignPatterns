@@ -1,0 +1,15 @@
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\bin\Debug\net6.0\Builder.exe
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\bin\Debug\net6.0\Builder.deps.json
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\bin\Debug\net6.0\Builder.dll
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\bin\Debug\net6.0\Builder.pdb
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.dll
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\refint\Builder.dll
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.pdb
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+D:\orgs\github\DesignPatterns\DesignPatterns\Builder\obj\Debug\net6.0\ref\Builder.dll
